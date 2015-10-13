@@ -10,7 +10,7 @@ import transmissionDataServer.transmissionSendFile;
 public class client {
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-		String serverName = "120.27.51.6";
+		String serverName = "localhost";
 		//120.27.51.6
 		String folderPath = "/home/hus/javaspace/client";
 		int port = 6066;
