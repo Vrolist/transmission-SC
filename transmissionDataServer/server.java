@@ -4,6 +4,8 @@ import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
 
+import threadToClient.connecThread;
+
 public class server {
 	private static ServerSocket serverSocket;
 	

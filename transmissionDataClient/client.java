@@ -4,8 +4,8 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-import transmissionDataServer.transmissionReceiveFile;
-import transmissionDataServer.transmissionSendFile;
+import receiverFileFunction.transmissionSendFile;
+import sendFileFunction.transmissionReceiveFile;
 
 public class client {
 	@SuppressWarnings("resource")
